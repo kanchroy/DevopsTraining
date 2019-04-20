@@ -2,6 +2,6 @@ This is my first commit
 <<<<<<< HEAD
 
 this is also a test.
-facing problem.
+I am not facing a problem.
 =======
 >>>>>>> 104c16098b4d1bb45f9b410077efd74543786322
