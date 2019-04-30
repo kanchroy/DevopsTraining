@@ -1,1 +1,8 @@
-it is time to rise
+AWS
+DevopsTraining
+gitrepo
+linux
+myfiles
+practice
+softwares
+ubuntu
