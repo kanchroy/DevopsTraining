@@ -1,0 +1,8 @@
+AWS
+DevopsTraining
+gitrepo
+linux
+myfiles
+practice
+softwares
+ubuntu
