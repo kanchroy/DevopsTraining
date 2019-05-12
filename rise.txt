@@ -6,3 +6,5 @@ myfiles
 practice
 softwares
 ubuntu
+unit.txt
+file.txt
